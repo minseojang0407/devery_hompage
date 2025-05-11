@@ -68,7 +68,7 @@ body {
 /* ───────── 5. Hero ───────── */
 .hero {
   height: 100vh;
-  background: url('https://gs-h.goesw.kr/module/upload/file/selectOrignlImageView.do?atchFileId=31000864031&fileSn=0') center/cover no-repeat;
+  background: url('../assets/bg.jpg') center/cover no-repeat;
   position: relative;
   display: flex; align-items: center; justify-content: center;
   text-align: center; color: #fff;
