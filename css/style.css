@@ -82,6 +82,8 @@ body {
 /* ───────── 6. Section ───────── */
 .section { padding: 100px 0; }
 .section--two-col .two-col { display: flex; gap: 40px; align-items: center; }
+.section--two-col .col--text  { flex:2 1 0; }
+.section--two-col .col--image { flex:1 1 0; }
 .section--two-col img { width: 100%; height: auto; border-radius: 8px; }
 .section--reverse .two-col { flex-direction: row-reverse; }
 
