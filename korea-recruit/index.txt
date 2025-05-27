@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="refresh" content="0; url=https://forms.gle/TV1wwFQxSiAMGN7x8">
+  <script>
+    // 자바스크립트로도 강제 리디렉트
+    window.location.replace("https://forms.gle/TV1wwFQxSiAMGN7x8");
+  </script>
+</head>
+<body>
+  <!-- 만약 자동 리디렉트가 동작하지 않을 경우를 대비한 링크 -->
+  <p>잠시만 기다려 주십시오. 자동으로 이동되지 않는다면 <a href="https://forms.gle/TV1wwFQxSiAMGN7x8">여기</a>를 클릭하세요.</p>
+</body>
+</html>
